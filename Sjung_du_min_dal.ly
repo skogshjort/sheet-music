@@ -59,7 +59,7 @@ RytmStämmaTvå = { c
   4 4.   8 4  2    4 4.   8 4  2.     4 4 4 4 4 4 2 4 2
   4 4.   8 4  2    4 4.   8 4  2    4 4 4 4 2   4 2 4 2.
 }
-                                       % Sjung du min...                                % Sjung markens...                               % Sjung källa...                                   % Ja sjung, du...
+%                                               % Sjung du min...                                % Sjung markens...                               % Sjung källa...                                   % Ja sjung, du...
 Melodi    = \Part \ApplyRhythm \Rytm          { c d e g   c'b a b g     f e d e(f)g e     e      c d e g   c'b a b g     f e d e d b,c     c      e g f e d   e f e d c     d e d c b,c d     d      e g f e d   e f e d c   d e d e d   b,c     c      }
 StämmaEtt = \Part \ApplyRhythm \Rytm          { c d e g   g g g g g     g g g g(g)g g     g      c d e g   g g g g g     g g g g g g g     g      g g g g g   g f f f e     g g g g g g g     g      g g g g g   g f f f e   e g g g g   g g     g      }
 StämmaTvå = \Part \ApplyRhythm \RytmStämmaTvå { c c c c   c b,b,b,c     c c c c(c)c c     c      c c c c   c c c c c     c c c g,g,g,g,    g,     c c c c b,  b,a,a,b,c     c c c c c c b,(a,)g,     c c c c b,  b,a,a,a,g,  c c c c b,  g,a,(g,)g,}
