@@ -5,7 +5,7 @@
   composer = "arrangerad av Petrix"
 }
 
-Root = a'
+Root = bes'
 Mode = \major
 TimeSignature = 6/4
 
