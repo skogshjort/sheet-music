@@ -68,7 +68,7 @@ ApplyRhythm = #(define-music-function
 )
 
 Rytm = { c
-    4.   8 4  2    4 4.   8 4  2.     4 4 4 4(4) 4 2.  2.
+    4.   8 4  2    4 4.   8 4  2.     4 4 4 4(4)4 2.  2.
     4  4   4  2    4 4.   8 4  2.     4 4 4 4 4 4 2.  2
   4 4.   8 4  2    4 4.   8 4  2.     4 4 4 4 4 4 2.  2
   4 4.   8 4  2    4 4.   8 4  2    4 4 4 4 2   4 2.  2.
@@ -76,8 +76,8 @@ Rytm = { c
 RytmStämmaTvå = { c
     4.   8 4  2    4 4.   8 4  2.     4 4 4 4(4)4 2.  2.
     4  4   4  2    4 4.   8 4  2.     4 4 4 4 4 4 2.  2
-  4 4.   8 4  2    4 4.   8 4  2.     4 4 4 4 4 4 2(4) 2
-  4 4.   8 4  2    4 4.   8 4  2    4 4 4 4 2   4 2(4)2.
+  4 4.   8 4  2    4 4.   8 4  2.     4 4 4 4 4 4 2(4)2   % <<< lite annorlunda 
+  4 4.   8 4  2    4 4.   8 4  2    4 4 4 4 2   4 2(4)2.  % <<< här på slutet
 }
 
 Melodi    = \Part \ApplyRhythm \Rytm          {     c     d   e   g    c'    b       a      b   g     f    e     d    e (f) g  e       e    c     d       e   g       c'  b     a  b    g      f      e  d   e      d  b,   c       c     e     g      f  e    d     e     f       e   d     c       d   e    d     c     b,     c      d       d       e      g      f   e   d       e     f       e   d   c    d     e      d      e    d    b,          c       c    }
